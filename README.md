@@ -1,2 +1,2 @@
 # OPS-Lab-Programs
-Implementation of Operating System concepts using C
+Implementation of Operating System concepts
